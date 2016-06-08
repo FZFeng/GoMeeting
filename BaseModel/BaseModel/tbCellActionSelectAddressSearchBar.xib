@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="KGk-i7-Jjw" customClass="tbCellActionSelectAddressSearchBar">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="60"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="标题" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uvO-fl-XnE" userLabel="lblAddressName">
+                        <rect key="frame" x="20" y="0.0" width="300" height="35"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="35" id="eFN-7v-AWb"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="副标题" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VRs-zJ-DJy" userLabel="lblAddressDetail">
+                        <rect key="frame" x="20" y="34" width="300" height="25"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="25" id="vu9-m0-YXk"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="VRs-zJ-DJy" secondAttribute="bottom" id="D3q-vs-0dX"/>
+                    <constraint firstItem="VRs-zJ-DJy" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="20" id="LPm-92-FbI"/>
+                    <constraint firstAttribute="trailing" secondItem="VRs-zJ-DJy" secondAttribute="trailing" id="Q7c-AA-xhl"/>
+                    <constraint firstAttribute="trailing" secondItem="uvO-fl-XnE" secondAttribute="trailing" id="f3E-IM-U0a"/>
+                    <constraint firstItem="uvO-fl-XnE" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="lSz-82-Xer"/>
+                    <constraint firstItem="uvO-fl-XnE" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="20" id="ptK-ng-BnF"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="lblAddressDetail" destination="VRs-zJ-DJy" id="eoY-rG-ilo"/>
+                <outlet property="lblAddressName" destination="uvO-fl-XnE" id="UNq-8F-ZWs"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+</document>

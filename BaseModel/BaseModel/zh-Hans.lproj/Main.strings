@@ -1,0 +1,198 @@
+
+/* Class = "UIButton"; normalTitle = "免费"; ObjectID = "1CP-po-Xnq"; */
+"1CP-po-Xnq.normalTitle" = "免费";
+
+/* Class = "UINavigationItem"; title = "登录/注册"; ObjectID = "2FE-Zc-pUv"; */
+"2FE-Zc-pUv.title" = "登录/注册";
+
+/* Class = "UIBarButtonItem"; title = "我的"; ObjectID = "2oQ-SV-YCv"; */
+"2oQ-SV-YCv.title" = "我的";
+
+/* Class = "UINavigationItem"; title = "系统"; ObjectID = "5Ik-eN-WaS"; */
+"5Ik-eN-WaS.title" = "系统";
+
+/* Class = "UIButton"; normalTitle = "我的活动"; ObjectID = "6LL-3M-RKB"; */
+"6LL-3M-RKB.normalTitle" = "我的活动";
+
+/* Class = "UILabel"; text = "腾讯微信"; ObjectID = "8db-xW-ruk"; */
+"8db-xW-ruk.text" = "腾讯微信";
+
+/* Class = "UINavigationItem"; title = "发布活动"; ObjectID = "BTA-hk-gyo"; */
+"BTA-hk-gyo.title" = "发布活动";
+
+/* Class = "UIBarButtonItem"; title = "取消"; ObjectID = "CON-tC-FjU"; */
+"CON-tC-FjU.title" = "取消";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "D7C-Bv-Avj"; */
+"D7C-Bv-Avj.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "性别"; ObjectID = "DO2-9j-GE6"; */
+"DO2-9j-GE6.text" = "性别";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "Ds3-gw-DUO"; */
+"Ds3-gw-DUO.normalTitle" = "注册";
+
+/* Class = "UIButton"; normalTitle = "关闭"; ObjectID = "Ebf-Xv-RzC"; */
+"Ebf-Xv-RzC.normalTitle" = "关闭";
+
+/* Class = "UILabel"; text = "日期:"; ObjectID = "Ep8-ek-zHd"; */
+"Ep8-ek-zHd.text" = "日期:";
+
+/* Class = "UIButton"; normalTitle = "参加活动"; ObjectID = "GOE-RO-pTo"; */
+"GOE-RO-pTo.normalTitle" = "参加活动";
+
+/* Class = "UISegmentedControl"; ICZ-rp-Fda.segmentTitles[0] = "进行中"; ObjectID = "ICZ-rp-Fda"; */
+"ICZ-rp-Fda.segmentTitles[0]" = "进行中";
+
+/* Class = "UISegmentedControl"; ICZ-rp-Fda.segmentTitles[1] = "已完成"; ObjectID = "ICZ-rp-Fda"; */
+"ICZ-rp-Fda.segmentTitles[1]" = "已完成";
+
+/* Class = "UISegmentedControl"; ICZ-rp-Fda.segmentTitles[2] = "被取消"; ObjectID = "ICZ-rp-Fda"; */
+"ICZ-rp-Fda.segmentTitles[2]" = "被取消";
+
+/* Class = "UISegmentedControl"; ICZ-rp-Fda.segmentTitles[3] = "我取消"; ObjectID = "ICZ-rp-Fda"; */
+"ICZ-rp-Fda.segmentTitles[3]" = "我取消";
+
+/* Class = "UIButton"; normalTitle = "不限"; ObjectID = "IVi-rh-mDg"; */
+"IVi-rh-mDg.normalTitle" = "不限";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "JgL-Ra-4wZ"; */
+"JgL-Ra-4wZ.normalTitle" = "X";
+
+/* Class = "UIViewController"; title = "uiviewUser"; ObjectID = "Kmi-CG-wDZ"; */
+"Kmi-CG-wDZ.title" = "uiviewUser";
+
+/* Class = "UIButton"; normalTitle = "找回密码?"; ObjectID = "L06-al-kbe"; */
+"L06-al-kbe.normalTitle" = "找回密码?";
+
+/* Class = "UIButton"; normalTitle = "修改个人资料"; ObjectID = "NC3-iB-Aik"; */
+"NC3-iB-Aik.normalTitle" = "修改个人资料";
+
+/* Class = "UIButton"; normalTitle = "添加图片+"; ObjectID = "OD7-VK-Om3"; */
+"OD7-VK-Om3.normalTitle" = "添加图片+";
+
+/* Class = "UILabel"; text = "腾讯QQ"; ObjectID = "Omi-YZ-ock"; */
+"Omi-YZ-ock.text" = "腾讯QQ";
+
+/* Class = "UIButton"; normalTitle = "系统"; ObjectID = "PdS-1c-aOV"; */
+"PdS-1c-aOV.normalTitle" = "系统";
+
+/* Class = "UIButton"; normalTitle = "添加图片+"; ObjectID = "PsS-0U-DLQ"; */
+"PsS-0U-DLQ.normalTitle" = "添加图片+";
+
+/* Class = "UILabel"; text = "收费:"; ObjectID = "RxA-oD-doQ"; */
+"RxA-oD-doQ.text" = "收费:";
+
+/* Class = "UILabel"; text = "系统版本:1.0.3"; ObjectID = "TKk-yz-t7d"; */
+"TKk-yz-t7d.text" = "系统版本:1.0.3";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "Tgm-ax-fJG"; */
+"Tgm-ax-fJG.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "选取图片(至少1张图片,不能超过4张)"; ObjectID = "Tla-RK-Ugt"; */
+"Tla-RK-Ugt.text" = "选取图片(至少1张图片,不能超过4张)";
+
+/* Class = "UINavigationItem"; title = "我的活动"; ObjectID = "Twm-dx-1JB"; */
+"Twm-dx-1JB.title" = "我的活动";
+
+/* Class = "UIButton"; normalTitle = "添加图片+"; ObjectID = "UmW-zM-Rsh"; */
+"UmW-zM-Rsh.normalTitle" = "添加图片+";
+
+/* Class = "UISegmentedControl"; WR2-o8-0cz.segmentTitles[0] = "进行中"; ObjectID = "WR2-o8-0cz"; */
+"WR2-o8-0cz.segmentTitles[0]" = "进行中";
+
+/* Class = "UISegmentedControl"; WR2-o8-0cz.segmentTitles[1] = "已完成"; ObjectID = "WR2-o8-0cz"; */
+"WR2-o8-0cz.segmentTitles[1]" = "已完成";
+
+/* Class = "UISegmentedControl"; WR2-o8-0cz.segmentTitles[2] = "已取消"; ObjectID = "WR2-o8-0cz"; */
+"WR2-o8-0cz.segmentTitles[2]" = "已取消";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "WbV-Bw-uWD"; */
+"WbV-Bw-uWD.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "新浪微博"; ObjectID = "Xk6-pD-5fv"; */
+"Xk6-pD-5fv.text" = "新浪微博";
+
+/* Class = "UILabel"; text = "联系人:Fabius     QQ:349829815"; ObjectID = "ZQ4-bj-eWm"; */
+"ZQ4-bj-eWm.text" = "联系人:Fabius     QQ:349829815";
+
+/* Class = "UIBarButtonItem"; title = "关闭"; ObjectID = "a48-uQ-wZF"; */
+"a48-uQ-wZF.title" = "关闭";
+
+/* Class = "UIButton"; normalTitle = "通知中心"; ObjectID = "cFS-D1-DZL"; */
+"cFS-D1-DZL.normalTitle" = "通知中心";
+
+/* Class = "UILabel"; text = "地点:"; ObjectID = "dP9-y3-E85"; */
+"dP9-y3-E85.text" = "地点:";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "dzv-7r-bQA"; */
+"dzv-7r-bQA.title" = " ";
+
+/* Class = "UILabel"; text = "其它登录方式"; ObjectID = "i5p-1A-xWf"; */
+"i5p-1A-xWf.text" = "其它登录方式";
+
+/* Class = "UIBarButtonItem"; title = "注册"; ObjectID = "iFN-bd-HqM"; */
+"iFN-bd-HqM.title" = "注册";
+
+/* Class = "UILabel"; text = "联系电话:"; ObjectID = "imD-t2-1SF"; */
+"imD-t2-1SF.text" = "联系电话:";
+
+/* Class = "UINavigationController"; title = "navUser"; ObjectID = "jzQ-wl-a1g"; */
+"jzQ-wl-a1g.title" = "navUser";
+
+/* Class = "UIBarButtonItem"; title = "发布"; ObjectID = "lbE-bN-CFl"; */
+"lbE-bN-CFl.title" = "发布";
+
+/* Class = "UIButton"; normalTitle = "活动日期"; ObjectID = "lif-dm-jj3"; */
+"lif-dm-jj3.normalTitle" = "活动日期";
+
+/* Class = "UIButton"; normalTitle = "清除缓存"; ObjectID = "m2h-ow-Wg9"; */
+"m2h-ow-Wg9.normalTitle" = "清除缓存";
+
+/* Class = "UINavigationItem"; title = "Go聚会"; ObjectID = "mXy-mR-x6b"; */
+"mXy-mR-x6b.title" = "Go聚会";
+
+/* Class = "UIButton"; normalTitle = "添加图片+"; ObjectID = "oCe-UZ-CZw"; */
+"oCe-UZ-CZw.normalTitle" = "添加图片+";
+
+/* Class = "UILabel"; text = "主题:"; ObjectID = "oPO-a8-Sin"; */
+"oPO-a8-Sin.text" = "主题:";
+
+/* Class = "UILabel"; text = "活动描述:"; ObjectID = "onC-d4-2mE"; */
+"onC-d4-2mE.text" = "活动描述:";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "qGE-1o-b4l"; */
+"qGE-1o-b4l.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "获取验证码"; ObjectID = "qaN-37-Qks"; */
+"qaN-37-Qks.normalTitle" = "获取验证码";
+
+/* Class = "UINavigationItem"; title = "参加活动动人员"; ObjectID = "qfm-Bb-vE8"; */
+"qfm-Bb-vE8.title" = "参加活动动人员";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "rFt-X0-4p0"; */
+"rFt-X0-4p0.normalTitle" = "登录";
+
+/* Class = "UIBarButtonItem"; title = "保存"; ObjectID = "sXP-OA-VWD"; */
+"sXP-OA-VWD.title" = "保存";
+
+/* Class = "UILabel"; text = "限人数:"; ObjectID = "uS4-6s-Ltr"; */
+"uS4-6s-Ltr.text" = "限人数:";
+
+/* Class = "UINavigationItem"; title = "个人资料"; ObjectID = "ula-Ba-m78"; */
+"ula-Ba-m78.title" = "个人资料";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "wUO-aR-rk6"; */
+"wUO-aR-rk6.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "登录退出"; ObjectID = "xAH-zy-MP6"; */
+"xAH-zy-MP6.normalTitle" = "登录退出";
+
+/* Class = "UINavigationItem"; title = "参加活动"; ObjectID = "ykL-zl-MgW"; */
+"ykL-zl-MgW.title" = "参加活动";
+
+/* Class = "UINavigationItem"; title = "消息"; ObjectID = "ysS-UL-RxC"; */
+"ysS-UL-RxC.title" = "消息";
+
+/* Class = "UIButton"; normalTitle = "活动地点"; ObjectID = "zRQ-5N-v5Z"; */
+"zRQ-5N-v5Z.normalTitle" = "活动地点";

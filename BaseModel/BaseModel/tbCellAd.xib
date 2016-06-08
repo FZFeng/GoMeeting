@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="tbCellAd" rowHeight="120" id="KGk-i7-Jjw" customClass="tbCellAd">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="120"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="119"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dcu-4n-qG6" userLabel="fzscrladviewAction" customClass="FZScrollAdView">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="119"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="dcu-4n-qG6" secondAttribute="bottom" id="BR3-ZS-7y6"/>
+                    <constraint firstItem="dcu-4n-qG6" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="NPZ-dZ-uBQ"/>
+                    <constraint firstAttribute="trailing" secondItem="dcu-4n-qG6" secondAttribute="trailing" id="T50-v9-IXX"/>
+                    <constraint firstItem="dcu-4n-qG6" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="cAo-yD-3Yb"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="fzscrladviewAction" destination="dcu-4n-qG6" id="FhS-PX-O3G"/>
+            </connections>
+            <point key="canvasLocation" x="266" y="352"/>
+        </tableViewCell>
+    </objects>
+</document>
